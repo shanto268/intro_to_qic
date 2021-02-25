@@ -29,5 +29,10 @@ This repository contains learning materials and assignments (in qiskit) that I c
 ## Primer to Quantum Information and Computation
 
 My take on introducing QIC - [primer.pdf](primer.pdf).
+
+## Instructions on how to install Qiskit and other required technology
+
+Please follow this document - [install_qiskit.pdf](tutorial_1.pdf).
+
 ## Acknowledgement
 These materials were highly influenced from previous work done by [IBM Qiskit](https://qiskit.org) team and the wonderful community built around this tool.
